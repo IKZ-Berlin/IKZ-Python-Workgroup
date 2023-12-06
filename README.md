@@ -1,1 +1,1 @@
-# IKZ-Python-Workshop
+# IKZ-Python-Workgroup
