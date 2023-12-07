@@ -1,5 +1,5 @@
 # IKZ-Python-Workgroup
-![Alt text](grafik.png)
+![Alt text](grafik-1.png)
 
 We're thrilled to unveil the Python Workgroup at IKZ — a dynamic initiative focused on integrating Python into our research landscape. This community-driven effort aims to assist individuals in adopting Python for research data management, fostering a supportive environment for skill development, and promoting collaborative knowledge sharing.
 
